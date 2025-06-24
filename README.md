@@ -25,7 +25,7 @@ To explore how VPNs protect online privacy and encrypt internet traffic by setti
 ## 📸 Screenshots Included
 - `vpn_connected_usa.png`: VPN app showing successful connection
 - `myipaddress_VPNconnect`: Screenshot from whatismyipaddress.com with VPN
-- `myipaddress_afterVPNconnect`: IP before VPN was enabled
+- `myipaddress_afterVPNdisconnect`: IP before VPN was enabled
 
 ---
 
@@ -63,7 +63,7 @@ To explore how VPNs protect online privacy and encrypt internet traffic by setti
 | `README.md`              | This task summary                       |
 | `vpn_connected.png`      | VPN app showing connection              |
 | `myipaddress_VPNconnect`       | IP shown with VPN on                    |
-| `myipaddress_afterconnect`  | IP shown with VPN off                   |
+| `myipaddress_afterVPNdisconnect`  | IP shown with VPN off                   |
 
 ---
 
